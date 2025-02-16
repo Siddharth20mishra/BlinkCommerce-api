@@ -1,5 +1,5 @@
 ## Overview
-The *Grocery Scanner API* is a powerful tool designed to scrape product data from multiple online grocery stores, including *Blinkit, Zepto, and Instamart*. It ensures comprehensive data collection, enabling users to retrieve up-to-date product details efficiently.
+The * BlinkCommerce API* is a powerful tool designed to scrape product data from multiple online grocery stores, including *Blinkit, Zepto, and Instamart*. It ensures comprehensive data collection, enabling users to retrieve up-to-date product details efficiently.
 
 ## Features
 - *Multi-Store Support*: Extracts product details from Blinkit, Zepto, and Instamart.
