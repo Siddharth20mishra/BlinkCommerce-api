@@ -19,7 +19,7 @@ To run the API locally, follow these steps:
 sh
 # Clone the repository
 git clone https://github.com/Siddharth20mishra/BlinkCommerce-api
-cd grocery-scanner-api
+cd BlinkCommerce-api
 
 # Create a virtual environment
 python -m venv venv
@@ -30,16 +30,6 @@ pip install -r requirements.txt
 
 # Run the API
 uvicorn main:app --reload
-
-
-## Usage
-Once the API is running, you can access the documentation at:
-- *Swagger UI*: [https://grocery-scanner-api.vercel.app/docs](https://grocery-scanner-api.vercel.app/docs)
-
-Example request using curl:
-sh
-curl -X GET "https://grocery-scanner-api.vercel.app/products?store=blinkit&query=milk" -H "accept: application/json"
-
 
 
 ## License
